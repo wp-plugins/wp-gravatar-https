@@ -3,7 +3,7 @@
  * Plugin Name: WP Gravatar Https
  * Plugin URI:  http://xiedexu.cn/wp-gravatar-https.htm
  * Description: Reason Gravatar avatar cannot access Gravatar site server is not stable, is the firewall problem, so the solution is to use the Gravatar avatar service (HTTPS) encryption line.Gravatar 头像无法稳定访问的原因不是 Gravatar 网站服务器的原因，是国内防火墙的问题，所以解决思路是使用Gravatar 头像服务的（HTTPS）加密线路。
- * Version: 1.0
+ * Version: 1.1
  * Author: iOpenV
  * Author URI: http://www.iopenv.com/
  * License: GPLv2 or later
